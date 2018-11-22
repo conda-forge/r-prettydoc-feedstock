@@ -14,9 +14,8 @@ Summary: Creating tiny yet beautiful documents and vignettes from R Markdown. Th
 Current build status
 ====================
 
-[![Linux](https://img.shields.io/circleci/project/github/conda-forge/r-prettydoc-feedstock/master.svg?label=Linux)](https://circleci.com/gh/conda-forge/r-prettydoc-feedstock)
-[![OSX](https://img.shields.io/travis/conda-forge/r-prettydoc-feedstock/master.svg?label=macOS)](https://travis-ci.org/conda-forge/r-prettydoc-feedstock)
-[![Windows](https://img.shields.io/appveyor/ci/conda-forge/r-prettydoc-feedstock/master.svg?label=Windows)](https://ci.appveyor.com/project/conda-forge/r-prettydoc-feedstock/branch/master)
+All platforms:
+[![noarch](https://img.shields.io/circleci/project/github/conda-forge/r-prettydoc-feedstock/master.svg?label=noarch)](https://circleci.com/gh/conda-forge/r-prettydoc-feedstock)
 
 Current release info
 ====================
