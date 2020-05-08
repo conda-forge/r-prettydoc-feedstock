@@ -40,6 +40,7 @@ about:
   license: Apache-2.0
   summary: Creating tiny yet beautiful documents and vignettes from R Markdown. The package provides the 'html_pretty' output format as an alternative to the 'html_document' and 'html_vignette' engines that convert R Markdown into HTML pages. Various themes and syntax highlight styles are supported.
   license_family: APACHE
+  license_file: LICENSE-2.0.txt
 
 extra:
   recipe-maintainers:
