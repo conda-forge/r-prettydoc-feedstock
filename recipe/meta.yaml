@@ -1,4 +1,4 @@
-{% set version = "0.3.1" %}
+{% set version = "0.4.0" %}
 {% set posix = 'm2-' if win else '' %}
 {% set native = 'm2w64-' if win else '' %}
 
@@ -10,11 +10,11 @@ source:
   url:
     - {{ cran_mirror }}/src/contrib/prettydoc_{{ version }}.tar.gz
     - {{ cran_mirror }}/src/contrib/Archive/prettydoc/prettydoc_{{ version }}.tar.gz
-  sha256: a932bac2e416e88c7502e13db1249426002d2db6fef95acdffea919c8fdba40b
+  sha256: 7f467260757e87e10472d22568ecd160ba352431bf5502260fbfa60f0ceb5330
 
 build:
   merge_build_host: true  # [win]
-  number: 1
+  number: 0
   noarch: generic
   rpaths:
     - lib/R/lib/
