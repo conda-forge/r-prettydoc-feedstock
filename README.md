@@ -1,11 +1,11 @@
-About r-prettydoc
-=================
+About r-prettydoc-feedstock
+===========================
+
+Feedstock license: [BSD-3-Clause](https://github.com/conda-forge/r-prettydoc-feedstock/blob/main/LICENSE.txt)
 
 Home: https://github.com/yixuan/prettydoc
 
 Package license: Apache-2.0
-
-Feedstock license: [BSD-3-Clause](https://github.com/conda-forge/r-prettydoc-feedstock/blob/main/LICENSE.txt)
 
 Summary: Creating tiny yet beautiful documents and vignettes from R Markdown. The package provides the 'html_pretty' output format as an alternative to the 'html_document' and 'html_vignette' engines that convert R Markdown into HTML pages. Various themes and syntax highlight styles are supported.
 
